@@ -1,5 +1,3 @@
-// @file sfml_grid.cpp
-// g++ -std=c++17 sfml_grid.cpp -o prog -lpthread -lsfml-graphics -lsfml-window -lsfml-system
 #include <iostream>
 #include <thread>
 #include <vector>
